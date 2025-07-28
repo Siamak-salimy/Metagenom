@@ -137,4 +137,3 @@
 | **ابزارهای تحلیل** | Kraken2, HUMAnN3, MEGAHIT, MetaPhlAn |
 
 ---
-
