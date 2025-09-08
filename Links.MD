@@ -94,6 +94,6 @@ SRS958144
 SRS958145
 
 
-SAMN03744146    https://www.ebi.ac.uk/ena/browser/view/SAMN03744146   SRR2059301_1.fastq.gz  * 
+SAMN03744146    https://www.ebi.ac.uk/ena/browser/view/SAMN03744146   SRR2059301_1.fastq.gz  * </br>
 59296 </br>
 
